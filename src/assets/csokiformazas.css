@@ -1,0 +1,22 @@
+#csoki-lista {
+	display: grid;
+	margin: 20px auto;
+	max-width: 1500px;
+}
+.chocolate-card {
+	border-collapse: collapse;
+	text-align: left;
+	width: 100%;
+}
+.chocolate-card th,
+.chocolate-card td {
+	border: 1px solid #999;
+	padding: 10px;
+}
+
+h1{
+    text-align: center;
+}
+small{
+    text-align: center;
+}
